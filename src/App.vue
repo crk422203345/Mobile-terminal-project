@@ -23,5 +23,4 @@ a{
     content: '\F0AF';
     font-size: 24px;
 }
-
 </style>
